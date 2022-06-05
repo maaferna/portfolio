@@ -1,0 +1,63 @@
+h1{
+    color: #4f6e31;
+    font-family: Courier, Impact;
+    font-variant: small-caps;
+    font-size: 150%;
+    line-height: 200%;
+    background: #b3b3b3;
+
+}
+
+
+header{
+    background: #6666;
+    text-align: center;
+}
+p{
+    color: gray;
+}
+
+mark{
+    background-color: azure;
+}
+
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: Arial, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: #335136;
+    background: #00b7ea;
+}
+
+details{
+    font-style: italic;
+}
+
+summary{
+    font-style: normal;
+}
+
+footer{
+    background: #6666; 
+}
+
+figure{
+    float: left;
+    background-color: azure;
+}
+
+table{
+    background-color: aliceblue;
+}
+
+section{
+    background-color: aliceblue;
+    overflow: scroll;
+}
+
+p{
+    height: 20%;
+}
